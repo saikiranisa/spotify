@@ -1,6 +1,6 @@
 #About
 
-This is the full stack working spotify clone created with React and Redux.
+This is a spotify clone created with React and Redux.
 
 
 In the project directory, you can run:
